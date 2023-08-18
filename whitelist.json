@@ -4,11 +4,11 @@
     "color": "#FF0000" 
   },
   "Bafoon": {
-    "users": ["4941308840"],
+    "users": ["v"],
     "color": "#7B1113" 
   },
-  "Stroked Private": {
-    "users": ["4939882937"],
+  "IPS": {
+    "users": ["4941428075"],
     "color": "#FF7800" 
   },
     "AC": {
@@ -28,7 +28,7 @@
     "color": "#FF7800" 
   },
   "AC MOD": {
-    "users": ["4941428075", "v", "v", "v"],
+    "users": ["v", "v", "v", "v"],
     "color": "#b800b8" 
   }
 }
